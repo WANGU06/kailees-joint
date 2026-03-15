@@ -1,10 +1,11 @@
+
 body { 
 
     font-family: Arial, sans-serif; 
 
-    color: #333; 
+    color: #e61212; 
 
-    background-color: #f9f9f9; 
+    background-color: #0c6dbd; 
 
     margin: 0; 
 
@@ -15,9 +16,9 @@ body {
 } 
 header { 
 
-    background-color: #4CAF50; 
+    background-color: #ca1f9f; 
 
-    color: white; 
+    color: rgb(238, 14, 6); 
 
     padding: 20px; 
 
@@ -78,7 +79,7 @@ main img {
 } 
 footer { 
 
-    background-color: #333; 
+    background-color: #531a37; 
 
     color: white; 
 
@@ -103,7 +104,7 @@ p {
 
 a { 
 
-    color: #4CAF50; 
+    color: #8b0845; 
 
     text-decoration: none; 
 
@@ -118,14 +119,14 @@ a:hover {
 } 
 img { 
 
-    border: 5px solid #4CAF50; 
+    border: 5px solid #4d0236; 
 
     border-radius: 10px; 
 
 } 
 main a[href^="mailto:"] { 
 
-    color: #ff5722; 
+    color: #a70268d5; 
 
     font-weight: bold; 
 
