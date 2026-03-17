@@ -1,11 +1,10 @@
-
 body { 
 
     font-family: Arial, sans-serif; 
 
     color: #e61212; 
 
-    background-color: #0c6dbd; 
+    background-color: #500450; 
 
     margin: 0; 
 
@@ -38,7 +37,7 @@ header h1 {
 
 nav a { 
 
-    color: white; 
+    color: rgba(185, 32, 173, 0.616); 
 
     text-decoration: none; 
 
@@ -81,7 +80,7 @@ footer {
 
     background-color: #531a37; 
 
-    color: white; 
+    color: rgba(185, 32, 173, 0.616); 
 
     text-align: center; 
 
